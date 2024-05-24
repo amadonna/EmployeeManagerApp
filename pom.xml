@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>io.boloProjects</groupId>
-    <artifactId>FirstAngular</artifactId>
+    <artifactId>EmployeeManager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>FirstAngular</name>
     <description>FirstAngular</description>
